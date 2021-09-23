@@ -1,6 +1,6 @@
 {
   "name": "lucifer/domain",
-  "description": "description",
+  "description": "域名和url解析器",
   "minimum-stability": "stable",
   "license": "MIT",
   "homepage": "https://github.com/adolphgithub/domain",
