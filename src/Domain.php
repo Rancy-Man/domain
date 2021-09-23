@@ -7,6 +7,11 @@ class Domain
 
     private static $gtld_domains = [];
 
+    /**
+     * 解析域名和地址.
+     * @param $url
+     * @return array|bool
+     */
     public static function parseUrl($url)
     {
         if(!self::isDomain($url)) {
@@ -70,6 +75,11 @@ class Domain
         ];
     }
 
+    /**
+     * 获取主域名信息.
+     * @param $domain
+     * @return bool|string
+     */
     public static function getMainDomain($domain)
     {
         $domain = strtolower($domain);
@@ -112,6 +122,10 @@ class Domain
         return implode('.', $suffix);
     }
 
+    /**
+     * 获取顶级后缀.
+     * @return array
+     */
     public static function getGtldDomains()
     {
         if(self::$gtld_domains) {
@@ -127,6 +141,10 @@ class Domain
         return $gtld_domains;
     }
 
+    /**
+     * 获取地区性后缀。
+     * @return array
+     */
     public static function getCctldDomains()
     {
         if(self::$cctld_domains) {
@@ -142,6 +160,20 @@ class Domain
         return $cctld_domains;
     }
 
+    /**
+     * 获取所有的域名后缀.
+     * @return array
+     */
+    public static function getSuffixDomains()
+    {
+        return self::getGtldDomains() + self::getCctldDomains();
+    }
+
+    /**
+     * 简单判断是否为一个域名.
+     * @param $domain
+     * @return bool
+     */
     private static function isDomain($domain)
     {
         return strpos($domain, '.') !== false;
