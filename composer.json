@@ -1,0 +1,24 @@
+{
+  "name": "lucifer/domain",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "homepage": "https://github.com/adolphgithub/domain",
+  "authors": [
+    {
+      "name": "adolphgithub",
+      "email": "yuan13036395508@163.com"
+    }
+  ],
+  "require": {
+    "php": "^7.*"
+  },
+  "provide": {
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lucifer\\": "src/"
+    }
+  }
+}
