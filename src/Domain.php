@@ -91,6 +91,8 @@ class Domain
             $domain = $translate_host;
         }
 
+        $domain_words = explode('.', $domain);
+
         // 开始转义.
         while(!in_array(array_shift($domain_words), ['', null])) {
             $kw = '.' . implode('.', $domain_words);
