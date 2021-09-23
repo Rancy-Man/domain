@@ -92,7 +92,7 @@ class Domain
         }
 
         // 开始转义.
-        while(array_shift($domain_words) !== '') {
+        while(!in_array(array_shift($domain_words), ['', null])) {
             $kw = '.' . implode('.', $domain_words);
             if(count($domain_words) >= 2 && in_array($kw, self::getCctldDomains())) {
                 break;
