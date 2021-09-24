@@ -37,7 +37,7 @@ class Domain
         // 开始解析.
         list($host, $port) = strpos($info['host'], ':') !== false
             ? explode($info['host'], ':')
-            : [$info['host'], ($info['scheme'] == 'http' ? '80' : '443')];
+            : [$info['host'], (($info['scheme'] ?? '') == 'http' ? '80' : '443')];
 
         $is_ip = filter_var($host, FILTER_FLAG_IPV4|FILTER_FLAG_IPV6);
 
