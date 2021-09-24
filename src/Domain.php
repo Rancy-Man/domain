@@ -171,7 +171,7 @@ class Domain
     {
         if(!self::$cdn_domains) {
             $cdn_domains = file_get_contents(dirname(__DIR__) . '/deps/cdn.txt');
-            $cdn_domains = explode("\n", $cdn_domains);
+            $cdn_domains = explode("\r\n", $cdn_domains);
 
             self::$cdn_domains = $cdn_domains;
         }
