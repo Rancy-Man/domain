@@ -7,6 +7,8 @@ class Domain
 
     private static $gtld_domains = [];
 
+    private static $cdn_domains = [];
+
     /**
      * 解析域名和地址.
      * @param $url
@@ -158,6 +160,23 @@ class Domain
         self::$cctld_domains = $cctld_domains;
 
         return $cctld_domains;
+    }
+
+    /***
+     * 判断主域名是否为cdn.
+     * @param $main_domain
+     * @return bool
+     */
+    public static function isCdn($main_domain)
+    {
+        if(!self::$cdn_domains) {
+            $cdn_domains = file_get_contents(dirname(__DIR__) . '/deps/cdn.txt');
+            $cdn_domains = explode("\n", $cdn_domains);
+
+            self::$cdn_domains = $cdn_domains;
+        }
+
+        return in_array($main_domain, self::$cdn_domains);
     }
 
     /**
