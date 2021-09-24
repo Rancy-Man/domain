@@ -134,7 +134,7 @@ class Domain
 
         $gtld_domains = file_get_contents(dirname(__DIR__) . '/deps/gtld.txt');
 
-        $gtld_domains = explode("\r\n", $gtld_domains);
+        $gtld_domains = explode("\n", $gtld_domains);
 
         self::$gtld_domains = $gtld_domains;
 
@@ -153,7 +153,7 @@ class Domain
 
         $cctld_domains = file_get_contents(dirname(__DIR__) . '/deps/cctld.txt');
 
-        $cctld_domains = explode("\r\n", $cctld_domains);
+        $cctld_domains = explode("\n", $cctld_domains);
 
         self::$cctld_domains = $cctld_domains;
 
