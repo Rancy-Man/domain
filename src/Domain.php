@@ -41,7 +41,7 @@ class Domain
             ? explode($info['host'], ':')
             : [$info['host'], (($info['scheme'] ?? '') == 'http' ? '80' : '443')];
 
-        $is_ip = filter_var($host, FILTER_FLAG_IPV4|FILTER_FLAG_IPV6);
+        $is_ip = filter_var($host,FILTER_VALIDATE_IP,FILTER_FLAG_IPV4|FILTER_FLAG_IPV6);
 
         if($is_ip) {
             return [
