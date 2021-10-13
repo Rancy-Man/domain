@@ -8,6 +8,7 @@ class Domain
     private static $gtld_domains = [];
 
     private static $cdn_domains = [];
+    private static $gtld_registers = [];
 
     /**
      * 解析域名和地址.
@@ -196,5 +197,44 @@ class Domain
     private static function isDomain($domain)
     {
         return strpos($domain, '.') !== false;
+    }
+
+
+    /**
+     * 获取对应关系list.
+     * @return array
+     */
+    public static function getGtldRegister()
+    {
+        if (self::$gtld_registers) {
+            return self::$gtld_registers;
+        }
+
+        $gtld_registers = file_get_contents(dirname(__DIR__) . '/deps/gtld_register.txt');
+
+        $gtld_registers = explode("\r\n", $gtld_registers);
+
+        self::$gtld_registers = $gtld_registers;
+
+        return $gtld_registers;
+    }
+
+
+    public static function getRegistrantInfo($suffix)
+    {
+        $list_data = self::getGtldDomains();
+
+        if (!in_array($suffix, $list_data)) {
+            return false;
+        }
+        $number = array_search($suffix, $list_data);
+        //根据拿到的number 获取对应的数据
+        $list_register_data = self::getGtldRegister();
+        $data = explode(',', $list_register_data[$number]);
+        return [
+            'url' => $data[0] ?? '', // 访问地址
+            'register_url' => $data[1] ?? '', // 注册地址
+            'whois' => $data[2] ?? '',  //
+        ];
     }
 }
