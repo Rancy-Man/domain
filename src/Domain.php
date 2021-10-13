@@ -212,7 +212,7 @@ class Domain
 
         $gtld_registers = file_get_contents(dirname(__DIR__) . '/deps/gtld_register.txt');
 
-        $gtld_registers = explode("\r\n", $gtld_registers);
+        $gtld_registers = explode("\n", $gtld_registers);
 
         self::$gtld_registers = $gtld_registers;
 
