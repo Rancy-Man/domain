@@ -227,10 +227,10 @@ class Domain
         if (!in_array($suffix, $list_data)) {
             return false;
         }
-        $number = array_search($suffix, $list_data);
+        $index = array_search($suffix, $list_data);
         //根据拿到的number 获取对应的数据
         $list_register_data = self::getGtldRegister();
-        $data = explode(',', $list_register_data[$number]);
+        $data = explode(',', $list_register_data[$index]);
         return [
             'url' => $data[0] ?? '', // 访问地址
             'register_url' => $data[1] ?? '', // 注册地址
