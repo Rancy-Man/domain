@@ -1,8 +1,8 @@
 https://www.iana.org/domains/root/db/onion.html,,
-https://www.iana.org/domains/root/db/aaa.html,http://www.aaa.com,
+https://www.iana.org/domains/root/db/aaa.html,http://www.aaa.com,whois.networksolutions.com
 https://www.iana.org/domains/root/db/aarp.html,,whois.nic.aarp
 https://www.iana.org/domains/root/db/abarth.html,http://www.abarth.com/,whois.afilias-srs.net
-https://www.iana.org/domains/root/db/abb.html,http://abb.com,
+https://www.iana.org/domains/root/db/abb.html,http://abb.com,whois.corporatedomains.com
 https://www.iana.org/domains/root/db/abbott.html,http://www.abbott.com,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/abbvie.html,http://www.abbvie.com,whois.nic.abbvie
 https://www.iana.org/domains/root/db/abc.html,http://abc.com,whois.nic.abc
@@ -17,7 +17,7 @@ https://www.iana.org/domains/root/db/accountants.html,http://www.donuts.domains/
 https://www.iana.org/domains/root/db/aco.html,http://www.aco.com,whois.nic.aco
 https://www.iana.org/domains/root/db/active.html,,
 https://www.iana.org/domains/root/db/actor.html,http://www.donuts.domains/,whois.nic.actor
-https://www.iana.org/domains/root/db/ad.html,http://www.nic.ad,
+https://www.iana.org/domains/root/db/ad.html,http://www.nic.ad,whois.ripe.net
 https://www.iana.org/domains/root/db/adac.html,http://nic.adac,whois.nic.adac
 https://www.iana.org/domains/root/db/ads.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/adult.html,http://nic.adult,whois.nic.adult
@@ -56,7 +56,7 @@ https://www.iana.org/domains/root/db/amex.html,https://www.americanexpress.com,
 https://www.iana.org/domains/root/db/amfam.html,,whois.nic.amfam
 https://www.iana.org/domains/root/db/amica.html,http://www.amica.com,
 https://www.iana.org/domains/root/db/amsterdam.html,http://www.nic.amsterdam,whois.nic.amsterdam
-https://www.iana.org/domains/root/db/an.html,,
+https://www.iana.org/domains/root/db/an.html,,http://www.una.an/
 https://www.iana.org/domains/root/db/analytics.html,http://www.sas.com,
 https://www.iana.org/domains/root/db/android.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/anquan.html,http://www.teleinfo.cn,whois.teleinfo.cn
@@ -116,7 +116,7 @@ https://www.iana.org/domains/root/db/baseball.html,http://www.mlb.com,
 https://www.iana.org/domains/root/db/basketball.html,http://www.fiba.com/,whois.nic.basketball
 https://www.iana.org/domains/root/db/bauhaus.html,http://www.bauhaus.info,whois.nic.bauhaus
 https://www.iana.org/domains/root/db/bayern.html,http://mm-registry.com,whois.nic.bayern
-https://www.iana.org/domains/root/db/bb.html,http://www.whois.telecoms.gov.bb/,
+https://www.iana.org/domains/root/db/bb.html,http://www.whois.telecoms.gov.bb/,https://whois.telecoms.gov.bb/
 https://www.iana.org/domains/root/db/bbc.html,http://www.bbc.co.uk,whois.nic.bbc
 https://www.iana.org/domains/root/db/bbt.html,http://bbt.com,whois.nic.bbt
 https://www.iana.org/domains/root/db/bbva.html,,whois.nic.bbva
@@ -195,7 +195,7 @@ https://www.iana.org/domains/root/db/buzz.html,http://www.buzznames.biz,
 https://www.iana.org/domains/root/db/bv.html,https://www.norid.no/en/omnorid/toppdomenet-bv/,
 https://www.iana.org/domains/root/db/bw.html,http://nic.net.bw,whois.nic.net.bw
 https://www.iana.org/domains/root/db/by.html,https://cctld.by,whois.cctld.by
-https://www.iana.org/domains/root/db/bz.html,http://www.belizenic.bz,
+https://www.iana.org/domains/root/db/bz.html,http://www.belizenic.bz,https://www.belizenic.bz/domain-registration/domain-whois-lookup.php
 https://www.iana.org/domains/root/db/bzh.html,http://www.pik.bzh,whois.nic.bzh
 https://www.iana.org/domains/root/db/ca.html,http://www.cira.ca/,whois.cira.ca
 https://www.iana.org/domains/root/db/cab.html,http://www.donuts.domains/,whois.nic.cab
@@ -232,7 +232,7 @@ https://www.iana.org/domains/root/db/cbn.html,http://www.cbn.com,
 https://www.iana.org/domains/root/db/cbre.html,http://cbre.com,
 https://www.iana.org/domains/root/db/cbs.html,http://www.cbs.com/,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/cc.html,http://www.nic.cc/,ccwhois.verisign-grs.com
-https://www.iana.org/domains/root/db/cd.html,http://www.nic.cd/,
+https://www.iana.org/domains/root/db/cd.html,http://www.nic.cd/,whois.cd
 https://www.iana.org/domains/root/db/ceb.html,,
 https://www.iana.org/domains/root/db/center.html,http://www.donuts.domains/,whois.nic.center
 https://www.iana.org/domains/root/db/ceo.html,http://www.peoplebrowsr.com,whois.nic.ceo
@@ -317,7 +317,7 @@ https://www.iana.org/domains/root/db/cruises.html,http://www.donuts.domains/,who
 https://www.iana.org/domains/root/db/csc.html,http://www.csc.com/alliance-one,whois.nic.csc
 https://www.iana.org/domains/root/db/cu.html,http://www.nic.cu,
 https://www.iana.org/domains/root/db/cuisinella.html,http://nic.cuisinella/,whois.nic.cuisinella
-https://www.iana.org/domains/root/db/cv.html,http://www.dns.cv/,
+https://www.iana.org/domains/root/db/cv.html,http://www.dns.cv/,http://www.dns.cv/tldcv_si/do?com=DS;115630977;online.200002;+PAGE(online.300110)++F_WHOIS()
 https://www.iana.org/domains/root/db/cw.html,http://www.uoc.cw/cw-registry,
 https://www.iana.org/domains/root/db/cx.html,http://cxda.org.cx,whois.nic.cx
 https://www.iana.org/domains/root/db/cy.html,http://www.nic.cy,
@@ -370,7 +370,7 @@ https://www.iana.org/domains/root/db/dodge.html,,
 https://www.iana.org/domains/root/db/dog.html,http://www.donuts.domains/,whois.nic.dog
 https://www.iana.org/domains/root/db/doha.html,,
 https://www.iana.org/domains/root/db/domains.html,http://www.donuts.domains/,whois.nic.domains
-https://www.iana.org/domains/root/db/doosan.html,,
+https://www.iana.org/domains/root/db/doosan.html,,whois.nic.doosan
 https://www.iana.org/domains/root/db/dot.html,http://www.dish.com,whois.nic.dot
 https://www.iana.org/domains/root/db/download.html,http://nic.download,whois.nic.download
 https://www.iana.org/domains/root/db/drive.html,https://www.registry.google,whois.nic.google
@@ -410,7 +410,7 @@ https://www.iana.org/domains/root/db/es.html,http://www.nic.es/,whois.nic.es
 https://www.iana.org/domains/root/db/esq.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/estate.html,http://www.donuts.domains/,whois.nic.estate
 https://www.iana.org/domains/root/db/esurance.html,,
-https://www.iana.org/domains/root/db/et.html,http://www.ethiotelecom.et,
+https://www.iana.org/domains/root/db/et.html,http://www.ethiotelecom.et,http://whois.ethiotelecom.et/
 https://www.iana.org/domains/root/db/etisalat.html,http://www.etisalat.ae/,whois.centralnic.com
 https://www.iana.org/domains/root/db/eu.html,http://www.eurid.eu,whois.eu
 https://www.iana.org/domains/root/db/eurovision.html,https://www.ebu.ch/,whois.nic.eurovision
@@ -452,14 +452,14 @@ https://www.iana.org/domains/root/db/fish.html,http://www.donuts.domains/,whois.
 https://www.iana.org/domains/root/db/fishing.html,http://nic.fishing/,whois.nic.fishing
 https://www.iana.org/domains/root/db/fit.html,http://nic.fit/,whois.nic.fit
 https://www.iana.org/domains/root/db/fitness.html,http://www.donuts.domains/,whois.nic.fitness
-https://www.iana.org/domains/root/db/fj.html,http://domains.fj/,
+https://www.iana.org/domains/root/db/fj.html,http://domains.fj/,https://www.domains.fj/index.php
 https://www.iana.org/domains/root/db/fk.html,http://www.sure.co.fk,
 https://www.iana.org/domains/root/db/flickr.html,http://nic.flickr,
 https://www.iana.org/domains/root/db/flights.html,http://www.donuts.domains/,whois.nic.flights
 https://www.iana.org/domains/root/db/flir.html,http://www.flir.com,
 https://www.iana.org/domains/root/db/florist.html,http://www.donuts.domains/,whois.nic.florist
 https://www.iana.org/domains/root/db/flowers.html,http://uniregistry.link,whois.uniregistry.net
-https://www.iana.org/domains/root/db/flsmidth.html,,
+https://www.iana.org/domains/root/db/flsmidth.html,,whois.ksregistry.net
 https://www.iana.org/domains/root/db/fly.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/fm.html,https://www.dot.fm/,whois.nic.fm
 https://www.iana.org/domains/root/db/fo.html,http://www.nic.fo/,whois.nic.fo
@@ -488,7 +488,7 @@ https://www.iana.org/domains/root/db/fund.html,http://www.donuts.domains/,whois.
 https://www.iana.org/domains/root/db/furniture.html,http://www.donuts.domains/,whois.nic.furniture
 https://www.iana.org/domains/root/db/futbol.html,http://www.donuts.domains/,whois.nic.futbol
 https://www.iana.org/domains/root/db/fyi.html,http://www.donuts.domains/,whois.nic.fyi
-https://www.iana.org/domains/root/db/ga.html,,
+https://www.iana.org/domains/root/db/ga.html,http://www.my.ga/en/index.html?lang=en,http://www.my.ga/en/whois.html
 https://www.iana.org/domains/root/db/gal.html,http://asociacion.dominio.gal/,whois.nic.gal
 https://www.iana.org/domains/root/db/gallery.html,http://www.donuts.domains/,whois.nic.gallery
 https://www.iana.org/domains/root/db/gallo.html,http://www.gallo.com,whois.nic.gallo
@@ -510,7 +510,7 @@ https://www.iana.org/domains/root/db/george.html,http://www.walmart.com,whois.ni
 https://www.iana.org/domains/root/db/gf.html,https://www.dom,whois.mediaserv.net
 https://www.iana.org/domains/root/db/gg.html,http://www.nic.gg,whois.gg
 https://www.iana.org/domains/root/db/ggee.html,http://nic.ggee,whois.nic.ggee
-https://www.iana.org/domains/root/db/gh.html,http://www.nic.gh,
+https://www.iana.org/domains/root/db/gh.html,http://www.nic.gh,http://www.nic.gh/whois.php
 https://www.iana.org/domains/root/db/gi.html,http://www.nic.gi,whois2.afilias-grs.net
 https://www.iana.org/domains/root/db/gift.html,http://uniregistry.link,whois.uniregistry.net
 https://www.iana.org/domains/root/db/gifts.html,http://www.donuts.domains/,whois.nic.gifts
@@ -542,7 +542,7 @@ https://www.iana.org/domains/root/db/got.html,https://www.amazonregistry.com,who
 https://www.iana.org/domains/root/db/gov.html,http://www.dotgov.gov,whois.dotgov.gov
 https://www.iana.org/domains/root/db/gp.html,http://www.nic.gp/,whois.nic.gp
 https://www.iana.org/domains/root/db/gq.html,http://www.dominio.gq,whois.dominio.gq
-https://www.iana.org/domains/root/db/gr.html,http://www.gr,
+https://www.iana.org/domains/root/db/gr.html,http://www.gr,https://grweb.ics.forth.gr/public/whois
 https://www.iana.org/domains/root/db/grainger.html,http://www.grainger.com,
 https://www.iana.org/domains/root/db/graphics.html,http://www.donuts.domains/,whois.nic.graphics
 https://www.iana.org/domains/root/db/gratis.html,http://www.donuts.domains/,whois.nic.gratis
@@ -559,7 +559,7 @@ https://www.iana.org/domains/root/db/guge.html,https://www.registry.google,whois
 https://www.iana.org/domains/root/db/guide.html,http://www.donuts.domains/,whois.nic.guide
 https://www.iana.org/domains/root/db/guitars.html,http://uniregistry.link,whois.uniregistry.net
 https://www.iana.org/domains/root/db/guru.html,http://www.donuts.domains/,whois.nic.guru
-https://www.iana.org/domains/root/db/gw.html,,
+https://www.iana.org/domains/root/db/gw.html,https://nic.gw/,https://nic.gw/whois/
 https://www.iana.org/domains/root/db/gy.html,https://registry.gy/,whois.registry.gy
 https://www.iana.org/domains/root/db/hair.html,https://nic.hair/,whois.nic.hair
 https://www.iana.org/domains/root/db/hamburg.html,http://www.nic.hamburg,whois.nic.hamburg
@@ -670,7 +670,7 @@ https://www.iana.org/domains/root/db/jll.html,http://www.jll.com,whois.afilias-s
 https://www.iana.org/domains/root/db/jm.html,,
 https://www.iana.org/domains/root/db/jmp.html,http://www.jmp.com,
 https://www.iana.org/domains/root/db/jnj.html,http://www.jnj.com/,
-https://www.iana.org/domains/root/db/jo.html,https://www.dns.jo/login.aspx,
+https://www.iana.org/domains/root/db/jo.html,https://www.dns.jo/login.aspx,https://www.dns.jo/en.aspx
 https://www.iana.org/domains/root/db/jobs.html,http://www.goto.jobs,whois.nic.jobs
 https://www.iana.org/domains/root/db/joburg.html,http://www.registry.net.za,joburg-whois.registry.net.za
 https://www.iana.org/domains/root/db/jot.html,https://www.amazonregistry.com,whois.nic.jot
@@ -708,7 +708,7 @@ https://www.iana.org/domains/root/db/kr.html,http://www.nic.or.kr/,whois.kr
 https://www.iana.org/domains/root/db/krd.html,https://dot.krd,whois.nic.krd
 https://www.iana.org/domains/root/db/kred.html,http://www.peoplebrowsr.com,
 https://www.iana.org/domains/root/db/kuokgroup.html,http://www.kerryprops.com,whois.nic.kuokgroup
-https://www.iana.org/domains/root/db/kw.html,http://www.nic.kw,
+https://www.iana.org/domains/root/db/kw.html,http://www.nic.kw,https://www.kw/en/whois/
 https://www.iana.org/domains/root/db/ky.html,http://uniregistry.com,whois.kyregistry.ky
 https://www.iana.org/domains/root/db/kyoto.html,http://nic.kyoto,whois.nic.kyoto
 https://www.iana.org/domains/root/db/kz.html,http://www.nic.kz,whois.nic.kz
@@ -730,7 +730,7 @@ https://www.iana.org/domains/root/db/latrobe.html,http://nic.latrobe,whois.nic.l
 https://www.iana.org/domains/root/db/law.html,http://nic.law/,whois.nic.law
 https://www.iana.org/domains/root/db/lawyer.html,http://www.donuts.domains/,whois.nic.lawyer
 https://www.iana.org/domains/root/db/lb.html,https://www.lbdr.org.lb,whois.lbdr.org.lb
-https://www.iana.org/domains/root/db/lc.html,http://www.nic.lc,
+https://www.iana.org/domains/root/db/lc.html,http://www.nic.lc,http://www.nic.lc/whois.htm
 https://www.iana.org/domains/root/db/lds.html,https://www.lds.org,whois.nic.lds
 https://www.iana.org/domains/root/db/lease.html,http://www.donuts.domains/,whois.nic.lease
 https://www.iana.org/domains/root/db/leclerc.html,http://www.mouvement-leclerc.com,whois-leclerc.nic.fr
@@ -824,7 +824,7 @@ https://www.iana.org/domains/root/db/mg.html,http://www.nic.mg,whois.nic.mg
 https://www.iana.org/domains/root/db/mh.html,http://www.nic.net.mh/,
 https://www.iana.org/domains/root/db/miami.html,http://mmx.co,whois.nic.miami
 https://www.iana.org/domains/root/db/microsoft.html,http://www.microsoft.com,
-https://www.iana.org/domains/root/db/mil.html,,
+https://www.iana.org/domains/root/db/mil.html,,whois.internic.net
 https://www.iana.org/domains/root/db/mini.html,http://nic.mini.com,whois.nic.mini
 https://www.iana.org/domains/root/db/mint.html,https://www.intuit.com/,
 https://www.iana.org/domains/root/db/mit.html,http://www.mit.edu,whois.afilias-srs.net
@@ -862,9 +862,9 @@ https://www.iana.org/domains/root/db/mq.html, https://www.dom-enic.com,whois.me
 https://www.iana.org/domains/root/db/mr.html,http://www.nic.mr,whois.nic.mr
 https://www.iana.org/domains/root/db/ms.html,http://www.nic.ms,whois.nic.ms
 https://www.iana.org/domains/root/db/msd.html,,
-https://www.iana.org/domains/root/db/mt.html,https://www.nic.org.mt/,
+https://www.iana.org/domains/root/db/mt.html,https://www.nic.org.mt/,https://www.nic.org.mt/dotmt/
 https://www.iana.org/domains/root/db/mtn.html,http://www.mtn.com,whois.nic.mtn
-https://www.iana.org/domains/root/db/mtpc.html,,
+https://www.iana.org/domains/root/db/mtpc.html,,whois.nic.gmo
 https://www.iana.org/domains/root/db/mtr.html,http://nic.mtr,whois.nic.mtr
 https://www.iana.org/domains/root/db/mu.html,http://www.nic.mu/,whois.nic.mu
 https://www.iana.org/domains/root/db/museum.html,http://about.museum,whois.nic.museum
@@ -903,7 +903,7 @@ https://www.iana.org/domains/root/db/nfl.html,http://www.nfl.com/,
 https://www.iana.org/domains/root/db/ng.html,http://www.nira.org.ng/,whois.nic.net.ng
 https://www.iana.org/domains/root/db/ngo.html,http://www.pir.org,whois.publicinterestregistry.net
 https://www.iana.org/domains/root/db/nhk.html,http://www.gmo-registry.com/en/,whois.nic.nhk
-https://www.iana.org/domains/root/db/ni.html,http://www.nic.ni,
+https://www.iana.org/domains/root/db/ni.html,http://www.nic.ni,https://www.nic.ni/Home/Whois
 https://www.iana.org/domains/root/db/nico.html,http://nic.nico,whois.nic.nico
 https://www.iana.org/domains/root/db/nike.html,http://www.nike.com,
 https://www.iana.org/domains/root/db/nikon.html,http://www.nikon.com,whois.nic.nikon
@@ -918,13 +918,13 @@ https://www.iana.org/domains/root/db/norton.html,http://www.symantec.com,whois.n
 https://www.iana.org/domains/root/db/now.html,https://www.amazonregistry.com/,whois.nic.now
 https://www.iana.org/domains/root/db/nowruz.html,http://nic.nowruz,whois.nic.nowruz
 https://www.iana.org/domains/root/db/nowtv.html,http://www.dot.asia/namesphere/,whois.nic.nowtv
-https://www.iana.org/domains/root/db/np.html,http://www.mos.com.np,
+https://www.iana.org/domains/root/db/np.html,http://www.mos.com.np,https://register.com.np/whois-lookup
 https://www.iana.org/domains/root/db/nr.html,http://www.cenpac.net.nr,
 https://www.iana.org/domains/root/db/nra.html,http://contact.nra.org/contact-us.aspx,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/nrw.html,http://mindsandmachines.com,whois.nic.nrw
 https://www.iana.org/domains/root/db/ntt.html,http://www.ntt.co.jp/dotntt/,
 https://www.iana.org/domains/root/db/nu.html,https://www.internetstiftelsen.se,whois.iis.nu
-https://www.iana.org/domains/root/db/nyc.html,http://www.mydotnyc.com,
+https://www.iana.org/domains/root/db/nyc.html,http://www.mydotnyc.com,https://www.ownit.nyc/whos-using-it
 https://www.iana.org/domains/root/db/nz.html,http://www.dnc.org.nz/,whois.srs.net.nz
 https://www.iana.org/domains/root/db/obi.html,,whois.nic.obi
 https://www.iana.org/domains/root/db/observer.html,https://donuts.domains/,whois.nic.observer
@@ -967,12 +967,12 @@ https://www.iana.org/domains/root/db/party.html,http://nic.party,whois.nic.party
 https://www.iana.org/domains/root/db/passagens.html,http://www.despegar.com,
 https://www.iana.org/domains/root/db/pay.html,https://www.amazonregistry.com/,whois.nic.pay
 https://www.iana.org/domains/root/db/pccw.html,http://www.dot.asia/namesphere/,whois.nic.pccw
-https://www.iana.org/domains/root/db/pe.html,http://www.nic.pe,
+https://www.iana.org/domains/root/db/pe.html,http://www.nic.pe,https://punto.pe/whois.php
 https://www.iana.org/domains/root/db/pet.html,http://afilias.info/contact-us,whois.afilias.net
 https://www.iana.org/domains/root/db/pf.html,,whois.registry.pf
 https://www.iana.org/domains/root/db/pfizer.html,http://www.pfizer.com,
 https://www.iana.org/domains/root/db/pg.html,,
-https://www.iana.org/domains/root/db/ph.html,http://dot.ph,
+https://www.iana.org/domains/root/db/ph.html,http://dot.ph,https://whois.dot.ph/
 https://www.iana.org/domains/root/db/pharmacy.html,https://nabp.pharmacy/programs/accreditations-inspections/dotpharmacy/,whois.nic.pharmacy
 https://www.iana.org/domains/root/db/phd.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/philips.html,http://nic.philips,whois.nic.philips
@@ -991,7 +991,7 @@ https://www.iana.org/domains/root/db/ping.html,http://www.ping.com,
 https://www.iana.org/domains/root/db/pink.html,http://afilias.info/contact-us,whois.afilias.net
 https://www.iana.org/domains/root/db/pioneer.html,http://www.gmoregistry.com/en/,whois.nic.gmo
 https://www.iana.org/domains/root/db/pizza.html,http://www.donuts.domains/,whois.nic.pizza
-https://www.iana.org/domains/root/db/pk.html,http://www.pknic.net.pk/,
+https://www.iana.org/domains/root/db/pk.html,http://www.pknic.net.pk/,https://www.pknic.net.pk/
 https://www.iana.org/domains/root/db/pl.html,http://www.dns.pl/english/,whois.dns.pl
 https://www.iana.org/domains/root/db/place.html,http://www.donuts.domains/,whois.nic.place
 https://www.iana.org/domains/root/db/play.html,https://www.registry.google,whois.nic.google
@@ -999,7 +999,7 @@ https://www.iana.org/domains/root/db/playstation.html,http://www.playstation.com
 https://www.iana.org/domains/root/db/plumbing.html,http://www.donuts.domains/,whois.nic.plumbing
 https://www.iana.org/domains/root/db/plus.html,http://www.donuts.domains/,whois.nic.plus
 https://www.iana.org/domains/root/db/pm.html,http://www.nic.pm/,whois.nic.pm
-https://www.iana.org/domains/root/db/pn.html,http://www.government.pn/PnRegistry/PnRegistry.htm,
+https://www.iana.org/domains/root/db/pn.html,http://www.government.pn/PnRegistry/PnRegistry.htm,http://www.government.pn/PnRegistry/whois.html
 https://www.iana.org/domains/root/db/pnc.html,http://www.pnc.com,whois.nic.pnc
 https://www.iana.org/domains/root/db/pohl.html, http://www.dvag-registry.de,whois.nic.pohl
 https://www.iana.org/domains/root/db/poker.html,http://afilias.info/contact-us,whois.afilias.net
@@ -1022,7 +1022,7 @@ https://www.iana.org/domains/root/db/property.html,http://uniregistry.link,whois
 https://www.iana.org/domains/root/db/protection.html,https://nic.protection/,whois.nic.protection
 https://www.iana.org/domains/root/db/pru.html,https://www.prudential.com,
 https://www.iana.org/domains/root/db/prudential.html,https://www.prudential.com,
-https://www.iana.org/domains/root/db/ps.html,http://www.nic.ps,
+https://www.iana.org/domains/root/db/ps.html,http://www.nic.ps,http://www.pnina.ps/
 https://www.iana.org/domains/root/db/pt.html,http://www.dns.pt/,whois.dns.pt
 https://www.iana.org/domains/root/db/pub.html,http://www.donuts.domains/,whois.nic.pub
 https://www.iana.org/domains/root/db/pw.html,http://www.registry.pw,whois.nic.pw
@@ -1154,13 +1154,13 @@ https://www.iana.org/domains/root/db/silk.html,https://www.amazonregistry.com/,w
 https://www.iana.org/domains/root/db/sina.html,http://www.sina.com,whois.nic.sina
 https://www.iana.org/domains/root/db/singles.html,http://www.donuts.domains/,whois.nic.singles
 https://www.iana.org/domains/root/db/site.html,http://www.radix.website,whois.nic.site
-https://www.iana.org/domains/root/db/sj.html,http://www.norid.no/omnorid/toppdomenet-sj.en.html,
+https://www.iana.org/domains/root/db/sj.html,http://www.norid.no/omnorid/toppdomenet-sj.en.html,https://www.norid.no/en/domeneoppslag/hvem-har-domenenavnet/
 https://www.iana.org/domains/root/db/sk.html,http://www.sk-nic.sk,whois.sk-nic.sk
 https://www.iana.org/domains/root/db/ski.html,http://afilias.info/contact-us,whois.afilias.net
 https://www.iana.org/domains/root/db/skin.html,https://nic.skin/,whois.nic.skin
 https://www.iana.org/domains/root/db/sky.html,http://nic.sky,whois.nic.sky
 https://www.iana.org/domains/root/db/skype.html,http://www.skype.com,
-https://www.iana.org/domains/root/db/sl.html,https://www.nic.sl,
+https://www.iana.org/domains/root/db/sl.html,https://www.nic.sl,https://www.nic.sl/domain/html/whois
 https://www.iana.org/domains/root/db/sling.html,http://www.echostar.com/,whois.nic.sling
 https://www.iana.org/domains/root/db/sm.html,https://www.nic.sm,whois.nic.sm
 https://www.iana.org/domains/root/db/smart.html,,whois.nic.smart
@@ -1180,7 +1180,7 @@ https://www.iana.org/domains/root/db/sony.html,http://www.sony.com,whois.nic.son
 https://www.iana.org/domains/root/db/soy.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/spa.html,https://nic.spa,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/space.html,http://radix.website,whois.nic.space
-https://www.iana.org/domains/root/db/spiegel.html,,
+https://www.iana.org/domains/root/db/spiegel.html,,whois.ksregistry.net
 https://www.iana.org/domains/root/db/sport.html,https://gaisf.org/sport-initiative/,whois.nic.sport
 https://www.iana.org/domains/root/db/spot.html,https://www.amazonregistry.com,whois.nic.spot
 https://www.iana.org/domains/root/db/spreadbetting.html,,
@@ -1259,7 +1259,7 @@ https://www.iana.org/domains/root/db/tiffany.html,http://international.tiffany.c
 https://www.iana.org/domains/root/db/tips.html,http://www.donuts.domains/,whois.nic.tips
 https://www.iana.org/domains/root/db/tires.html,http://www.donuts.domains/,whois.nic.tires
 https://www.iana.org/domains/root/db/tirol.html,http://www.nic.tirol,whois.nic.tirol
-https://www.iana.org/domains/root/db/tj.html,http://www.nic.tj,
+https://www.iana.org/domains/root/db/tj.html,http://www.nic.tj,whois.nic.tj
 https://www.iana.org/domains/root/db/tjmaxx.html,http://www.tjx.com,
 https://www.iana.org/domains/root/db/tjx.html,http://www.tjx.com,
 https://www.iana.org/domains/root/db/tk.html,http://www.dot.tk,whois.dot.tk
@@ -1291,7 +1291,7 @@ https://www.iana.org/domains/root/db/travelers.html,http://www.travelers.com,who
 https://www.iana.org/domains/root/db/travelersinsurance.html,http://www.travelers.com,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/trust.html,https://whodoyou.trust/,whois.nic.trust
 https://www.iana.org/domains/root/db/trv.html,http://www.travelers.com,whois.afilias-srs.net
-https://www.iana.org/domains/root/db/tt.html,http://www.nic.tt,
+https://www.iana.org/domains/root/db/tt.html,http://www.nic.tt,https=>\/\/www.nic.tt\/cgi-bin\/search.pl?name=
 https://www.iana.org/domains/root/db/tube.html,http://tubetld.com,
 https://www.iana.org/domains/root/db/tui.html,http://www.tuiregistry.com,whois.nic.tui
 https://www.iana.org/domains/root/db/tunes.html,https://www.amazonregistry.com,whois.nic.tunes
@@ -1327,7 +1327,7 @@ https://www.iana.org/domains/root/db/verisign.html,http://www.verisign.com/,whoi
 https://www.iana.org/domains/root/db/versicherung.html,http://nic.versicherung,whois.nic.versicherung
 https://www.iana.org/domains/root/db/vet.html,http://www.donuts.domains/,whois.nic.vet
 https://www.iana.org/domains/root/db/vg.html,http://nic.vg,whois.nic.vg
-https://www.iana.org/domains/root/db/vi.html,http://www.nic.vi,
+https://www.iana.org/domains/root/db/vi.html,http://www.nic.vi,https://secure.nic.vi/whois-lookup/
 https://www.iana.org/domains/root/db/viajes.html,http://www.donuts.domains/,whois.nic.viajes
 https://www.iana.org/domains/root/db/video.html,http://www.donuts.domains/,whois.nic.video
 https://www.iana.org/domains/root/db/vig.html,http://www.vig.com,whois.afilias-srs.net
@@ -1338,8 +1338,8 @@ https://www.iana.org/domains/root/db/vip.html,http://nic.vip/,whois.nic.vip
 https://www.iana.org/domains/root/db/virgin.html,http://www.virgin.com,whois.nic.virgin
 https://www.iana.org/domains/root/db/visa.html,http://visa.com,whois.nic.visa
 https://www.iana.org/domains/root/db/vision.html,http://www.donuts.domains/,whois.nic.vision
-https://www.iana.org/domains/root/db/vista.html,,
-https://www.iana.org/domains/root/db/vistaprint.html,,
+https://www.iana.org/domains/root/db/vista.html,https://www.vistaprint.com,
+https://www.iana.org/domains/root/db/vistaprint.html,https://www.vistaprint.com,
 https://www.iana.org/domains/root/db/viva.html,http://www.stc.com.sa,whois.nic.viva
 https://www.iana.org/domains/root/db/vivo.html,http://www.vivo.com.br,
 https://www.iana.org/domains/root/db/vlaanderen.html,http://www.nic.vlaanderen,whois.nic.vlaanderen
@@ -1394,7 +1394,7 @@ https://www.iana.org/domains/root/db/xerox.html,,whois.nic.xerox
 https://www.iana.org/domains/root/db/xfinity.html,http://nic.xfinity/,whois.nic.xfinity
 https://www.iana.org/domains/root/db/xihuan.html,http://www.teleinfo.cn,whois.teleinfo.cn
 https://www.iana.org/domains/root/db/xin.html,http://www.dotxin.org,whois.nic.xin
-https://www.iana.org/domains/root/db/测试.html,http://www.iana.org/domains/idn-test/,
+https://www.iana.org/domains/root/db/xn--0zwm56d.html,http://www.iana.org/domains/idn-test/,
 https://www.iana.org/domains/root/db/कॉम.html,http://www.verisigninc.com,whois.nic.xn--11b4c3d
 https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html,http://www.iana.org/domains/idn-test/,
 https://www.iana.org/domains/root/db/xn--1ck2e1b.html,http://www.amazonregistry.com,
@@ -1413,7 +1413,7 @@ https://www.iana.org/domains/root/db/xn--45brj9c.html,https://www.registry.in,wh
 https://www.iana.org/domains/root/db/xn--45q11c.html,http://www.bagua.wang,whois.nic.xn--45q11c
 https://www.iana.org/domains/root/db/xn--4dbrk0ce.html,http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars,whois.isoc.org.il
 https://www.iana.org/domains/root/db/xn--4dbrk0ce.html,http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars,whois.isoc.org.il
-https://www.iana.org/domains/root/db/xn--54b7fta0cc.html,http://domainreg.btcl.com.bd/,
+https://www.iana.org/domains/root/db/xn--54b7fta0cc.html,http://www.btcl.gov.bd/,
 https://www.iana.org/domains/root/db/xn--55qw42g.html,http://www.conac.cn,whois.conac.cn
 https://www.iana.org/domains/root/db/xn--55qx5d.html,http://www.cnnic.cn,whois.ngtld.cn
 https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html,http://www.shangri-la.com/,whois.nic.xn--5su34j936bgsg
@@ -1537,7 +1537,7 @@ https://www.iana.org/domains/root/db/xn--q7ce6a.html,https://www.la,whois.nic.la
 https://www.iana.org/domains/root/db/xn--q9jyb4c.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/xn--qcka1pmc.html,https://www.registry.google, whois.nic.google
 https://www.iana.org/domains/root/db/xn--qxa6a.html,https://www.registry.eu,whois.eu
-https://www.iana.org/domains/root/db/xn--qxam.html,http://www.gr,
+https://www.iana.org/domains/root/db/xn--qxam.html,http://www.gr,https://grweb.ics.forth.gr/public/whois
 https://www.iana.org/domains/root/db/xn--rhqv96g.html,http://www.stabletone.com,
 https://www.iana.org/domains/root/db/xn--rovu88b.html,http://www.amazonregistry.com,
 https://www.iana.org/domains/root/db/xn--rvc1e0am3e.html,https://www.registry.in,whois.registry.in
@@ -1578,7 +1578,7 @@ https://www.iana.org/domains/root/db/you.html,https://www.amazonregistry.com,who
 https://www.iana.org/domains/root/db/youtube.html,https://www.registry.google,whois.nic.google
 https://www.iana.org/domains/root/db/yt.html,http://www.nic.yt/,whois.nic.yt
 https://www.iana.org/domains/root/db/yun.html,http://www.teleinfo.cn,whois.teleinfo.cn
-https://www.iana.org/domains/root/db/za.html,http://www.zadna.org.za/,
+https://www.iana.org/domains/root/db/za.html,http://www.zadna.org.za/,https://www.registry.net.za/content.php?wiki=1&contentid=59&title=WHOIS%20Services
 https://www.iana.org/domains/root/db/zappos.html,https://www.amazonregistry.com/,whois.nic.zappos
 https://www.iana.org/domains/root/db/zara.html,http://www.zara.com,whois.afilias-srs.net
 https://www.iana.org/domains/root/db/zero.html,http://www.amazonregistry.com,
