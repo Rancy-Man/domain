@@ -2070,3 +2070,12 @@
 .rednesp.br
 .ansp.br
 .tche.br
+.net.pe
+.edu.pe
+.gob.pe
+.nom.pe
+.mil.pe
+.sld.pe
+.org.pe
+.ngo.pe
+.com.pe
