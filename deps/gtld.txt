@@ -1588,3 +1588,4 @@
 .zone
 .zuerich
 .zw
+.host
