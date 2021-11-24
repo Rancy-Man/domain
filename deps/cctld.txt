@@ -32,6 +32,7 @@
 .game.tw
 .ebiz.tw
 .club.tw
+.商業.tw
 .co.kr
 .ne.kr
 .or.kr
@@ -183,6 +184,7 @@
 .rep.kp
 .net.kp
 .sca.kp
+.tra.kp
 .com.nf
 .net.nf
 .arts.nf
@@ -215,12 +217,15 @@
 .edu.hk
 .gov.hk
 .idv.hk
+.inc.hk
+.ltd.hk
 .公司.hk
 .組織.hk
 .網絡.hk
 .教育.hk
 .政府.hk
 .個人.hk
+.个人.hk
 .公司.香港
 .組織.香港
 .網絡.香港
@@ -337,6 +342,9 @@
 .ne.jp
 .or.jp
 .metro.tokyo.jp
+.fukushima.jp
+.fukui.jp
+.gifu.jp
 .com.ph
 .net.ph
 .org.ph
@@ -463,6 +471,8 @@
 .org.ir
 .sch.ir
 .dnssec.ir
+.ايران.ir
+.ایران.ir
 .nom.ad
 .gov.af
 .com.af
@@ -492,6 +502,7 @@
 .upt.al
 .inima.al
 .com.am
+.co.am
 .net.am
 .org.am
 .radio.am
@@ -810,6 +821,9 @@
 .ar.com
 .uy.com
 .africa.com
+.ae.com
+.hk.com
+.kr.com
 .ac.cr
 .co.cr
 .ed.cr
@@ -1148,6 +1162,7 @@
 .sch.jo
 .per.jo
 .phd.jo
+.name.jo
 .com.jm
 .co.ke
 .or.ke
@@ -1321,9 +1336,11 @@
 .edu.mm
 .gov.mm
 .org.mm
+.biz.mm
 .gov.mn
 .edu.mn
 .org.mn
+.nyc.mn
 .gov.mp
 .org.mp
 .co.mp
@@ -1504,6 +1521,7 @@
 .pro.om
 .med.om
 .us.org
+.ae.org
 .com.pf
 .com.pg
 .net.pg
@@ -1515,6 +1533,10 @@
 .mil.ph
 .edu.ph
 .i.ph
+.com.ph
+.net.ph
+.org.ph
+.ngo.ph
 .com.pk
 .org.pk
 .net.pk
@@ -1528,10 +1550,12 @@
 .gop.pk
 .gos.pk
 .gog.pk
+.gon.pk
 .ltd.pk
 .web.pk
 .fam.pk
 .biz.pk
+.info.pk
 .gov.pn
 .ac.pn
 .in.pn
@@ -1560,6 +1584,8 @@
 .edu.ps
 .gov.ps
 .sch.ps
+.plo.ps
+.sec.ps
 .com.pt
 .edu.pt
 .gov.pt
@@ -1934,6 +1960,7 @@
 .gov.tr
 .edu.tr
 .av.tr
+.biz.tr
 .bel.tr
 .dr.tr
 .tsk.tr
@@ -1944,6 +1971,10 @@
 .nc.tr
 .ct.tr
 .com.tr
+.tv.tr
+.web.tr
+.bbs.tr
+.info.tr
 .co.tt
 .com.tt
 .org.tt
@@ -2192,3 +2223,11 @@
 .net.ac
 .or.ac
 .org.ac
+.ac.ae
+.co.ae
+.net.ae
+.sch.ae
+.com.bh
+.edu.bh
+.net.bh
+.org.bh
