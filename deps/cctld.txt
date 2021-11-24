@@ -372,12 +372,14 @@
 .net.ci
 .go.ci
 .int.ci
+.asso.ci
 .amb-name.ci
 .chu-name.ci
 .ot-name.ci
 .univ-name.ci
 .cci-name.ci
 .mairie-name.ci
+.aéroport.ci
 .com.de
 .co.de
 .co.in
@@ -446,10 +448,12 @@
 .net.je
 .org.je
 .sch.je
+.com.ml
 .net.ml
 .org.ml
 .edu.ml
 .gov.ml
+.govu.ml
 .presse.ml
 .ac.ir
 .co.ir
@@ -500,6 +504,11 @@
 .edu.an
 .net.an
 .it.ao
+.co.ao
+.ed.ao
+.gv.ao
+.og.ao
+.pb.ao
 .com.aq
 .com.ar
 .coop.ar
@@ -575,6 +584,7 @@
 .gov.bj
 .asso.bj
 .barreau.bj
+.gouv.bj
 .com.bj
 .com.bm
 .edu.bm
@@ -799,6 +809,7 @@
 .za.com
 .ar.com
 .uy.com
+.africa.com
 .ac.cr
 .co.cr
 .ed.cr
@@ -902,6 +913,8 @@
 .edu.et
 .net.et
 .name.et
+.biz.et
+.info.et
 .ac.fj
 .biz.fj
 .com.fj
@@ -936,6 +949,7 @@
 .com.gh
 .edu.gh
 .gov.gh
+.org.gh
 .com.gi
 .ltd.gi
 .gov.gi
@@ -949,6 +963,7 @@
 .gov.gn
 .org.gn
 .net.gn
+.edu.gn
 .al.gov
 .alabama.gov
 .alaska.gov
@@ -1165,6 +1180,7 @@
 .edu.ki
 .mob.ki
 .tel.ki
+.ass.km
 .com.km
 .coop.km
 .asso.km
@@ -1290,6 +1306,8 @@
 .edu.mg
 .mil.mg
 .com.mg
+.co.mg
+.net.mg
 .com.mk
 .org.mk
 .net.mk
@@ -1352,6 +1370,7 @@
 .museum.mw
 .net.mw
 .org.mw
+.biz.mw
 .com.my
 .net.my
 .org.my
@@ -1366,6 +1385,8 @@
 .ngo.mx
 .edu.mx
 .gob.mx
+.ac.mz
+.adv.mz
 .co.mz
 .net.mz
 .org.mz
@@ -1374,6 +1395,13 @@
 .edu.mz
 .co.na
 .com.na
+.ca.na
+.cc.na
+.dr.na
+.in.na
+.org.na
+.info.na
+.mobi.na
 .asso.nc
 .nom.nc
 .gb.net
@@ -1706,6 +1734,9 @@
 .mil.rw
 .coop.rw
 .ltd.rw
+.edu.rw
+.govu.rw
+.int.rw
 .com.sa
 .edu.sa
 .sch.sa
@@ -1897,6 +1928,9 @@
 .perso.tn
 .tourism.tn
 .mincom.tn
+.edunet.tn
+.agrinet.tn
+.defense.tn
 .gov.tr
 .edu.tr
 .av.tr
@@ -2150,3 +2184,11 @@
 .edu.vc
 .net.vc
 .org.vc
+.ac.ac
+.co.ac
+.com.ac
+.edu.ac
+.gv.ac
+.net.ac
+.or.ac
+.org.ac
