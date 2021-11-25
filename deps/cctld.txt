@@ -311,6 +311,9 @@
 .gov.au
 .asn.au
 .id.au
+.nt.au
+.act.au
+.nsw.au
 .csiro.au
 .act.gov.au
 .nsw.gov.au
@@ -842,6 +845,7 @@
 .gen.ck
 .biz.ck
 .info.ck
+.ath.cx
 .com.cm
 .co.cm
 .net.cm
@@ -851,6 +855,7 @@
 .co.com
 .de.com
 .eu.com
+.gb.com
 .gr.com
 .jpn.com
 .hu.com
@@ -1501,6 +1506,15 @@
 .se.net
 .uk.net
 .biz.nf
+.com.nf
+.net.nf
+.per.nf
+.rec.nf
+.arts.nf
+.firm.nf
+.info.nf
+.other.nf
+.store.nf
 .co.nl
 .bv.nl
 .com.nl
@@ -1552,6 +1566,9 @@
 .biz.nr
 .info.nr
 .co.nr
+.mine.nu
+.merseine.nu
+.shacknet.nu
 .edu.np
 .com.np
 .gov.np
@@ -1601,6 +1618,8 @@
 .us.org
 .ae.org
 .com.pf
+.edu.pf
+.org.pf
 .com.pg
 .net.pg
 .ac.pg
@@ -1639,6 +1658,7 @@
 .in.pn
 .co.pn
 .eu.pn
+.edu.pn
 .org.pn
 .net.pn
 .me.pn
@@ -2042,6 +2062,10 @@
 .edunet.tn
 .agrinet.tn
 .defense.tn
+.com.to
+.edu.to
+.net.to
+.org.to
 .gov.tr
 .edu.tr
 .av.tr
@@ -2211,6 +2235,10 @@
 .com.vi
 .net.vi
 .k12.vi
+.com.vu
+.edu.vu
+.net.vu
+.org.vu
 .com.vn
 .biz.vn
 .edu.vn
